@@ -49,8 +49,8 @@ After uploading a Stack Overflow dataset, the application automatically:
 - Plotly
 - Google Gemini API
 - python-dotenv
-- Git
 - GitHub
+- VS Code
 
 ---
 
